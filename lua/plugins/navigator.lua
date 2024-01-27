@@ -1,7 +1,6 @@
 return {
   {
     "numToStr/Navigator.nvim",
-    lazy = false,
     keys = {
       { "<C-h>", "<cmd>NavigatorLeft<cr>", desc = "Move to left TMUX pane." },
       { "<C-j>", "<cmd>NavigatorDown<cr>", desc = "Move lo lower TMUX pane." },
